@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html >
+<head>
+    <title>
+    CV-AIMAN IBRAHIM
+    </title>
+    <style>
+        body{
+            background-color: #696969;
+            
+        }
+        table
+        {
+            background-color: White;
+            margin-left: 20%;
+        }
+        .style1
+        {
+            margin-left: 3%;
+            font-size: 13pt;
+        }
+     </style>
+</head>
+
+<body>
+
+<table  >
+    <tr>
+        <td style="width: 300px;">
+        <img src="images.jpg">
+        </td>
+
+        <td style="width: 500px;">
+            <h1 style="padding-left: 3%;">  Aiman Ibrahim</h1>
+            <b style="color: black;padding-left: 3%;font-size: 13pt;">Manager Operation at Mustang Eye (pvt) ltd</b><br>
+            <b style="color: #808080;padding-left: 3%;">Pakistan | Information Technology</b>
+            <br>
+            <br>
+
+            <table  style="margin-left: 3% ;">
+            <tr>
+                <td style="color: #808080;font-size: 12px;">Previous </td>  <td style=" padding-left:10% ;width: 200px ">Assistant Manager</td></tr>
+
+                <tr>
+                <td style="color: #808080;font-size: 12px ;">Education </td>  <td style="padding-left:10% ;width: 200px "> University of Karachi</td></tr>
+            </table>
+            <br>
+        </td>
+
+    </tr>
+    <tr >
+        <td><img src="in-logo.JPG" width ="20px" height="20px" style="padding-left:80%;"></td>
+        <td> <a href="http://pk.linkedin.com/pub/aiman-ibrahim/23/3a0/317/" style="font-size: 13px; ">pk.linkedin.com/pub/aiman-ibrahim/23/3a0/317/</a></td>
+    </tr>
+
+    <tr>
+        <td colspan="2">
+            <a style="font-size: 14px;padding-left: 30%; color: blue;"><b>Email</b></a><a href="mailto:aimanibrahim10@hotmail.com" style="margin-left: 4%;">aimanibrahim10@hotmail.com</a>
+        </td>
+    </tr>
+</table>
+    <br>
+    <br>
+<table border="0">
+
+    <tr>
+        <td style="background-color: black; color: white ;text-align: center; width: 200px ;">
+           <b> BACKGROUND</b>
+        </td>
+        <td style="width: 600px;"></td>
+    </tr>
+
+    <tr>
+        <td style="width: 200px ;">
+    <img src="img_summary.JPG" style="margin-left: 10%;">
+        </td>
+    </tr>
+
+    <tr >
+    <td colspan="2" style="width: 800px;" >
+    <p style="text-justify: auto;font-size: 13pt; margin-left: 5%;"> As experienced managerial personnel, I am seeking an opportunity that will utilize my strengths in
+        personnel management, problem solving, and process improvement to have an immediate impact upon
+        operations, productivity, and profitability of the Organization.
+    </p>
+    </td>
+
+    </tr>
+    <tr>
+       <td colspan="2" style="width: 800px;">
+        <hr></td>
+    </tr>
+
+    <tr>
+        <td style="width: 200px ;">
+            <img src="img_experience.JPG" style="margin-left: 10%;">
+        </td>
+    </tr>
+
+    <tr >
+        <td colspan="2" style="width: 800px;" >
+            <p style="margin-left: 5%; font-size: 13pt;">
+            <b style="font-size: 14pt;">Manager Operation & Services</b><br>
+            Mustang Eye (pvt) Ltd<br>
+            <a style="color: #808080;">January 2010 - Present (3 years 6 months)</a></p>
+            <p>
+                <ol>
+                    <li CLASS="style1">
+                        Manage 24/7 operational control room activities
+                    </li>
+                    <li CLASS="style1">
+                        Lead the team of technical staff for product development, commissioning and testing
+                    </li>
+                     <li CLASS="style1">
+                         Responsible to ensure the system performance up to satisfactory level and standard procedures being followed
+                     </li>
+                       <li CLASS="style1">
+                           Many More day to day task
+                       </li>
+                </ol>
+
+            </p>
+        </td>
+
+    <tr >
+        <td colspan="2" style="width: 800px;" >
+            <p style="margin-left: 5%; font-size: 13pt;">
+                <b style="font-size: 14pt;">Assistant Manager</b><br>
+                Syndustria (pvt) Ltd<br>
+                <a style="color: #808080;">April 2007 - December 2009 (2 years 9 months)</a></p>
+            <p>
+            <ul>
+                <li class="style1">
+                    Plan, Direct, control and lead a group of technical personnel in the development/testing of tracking and security products. Also being involved in Home Alarm and Management System.
+                </li>
+                <li CLASS="style1">
+                    Direct and manage development activities from concept testing, lab and field test validation to formal release for sale.
+                </li>
+                <li CLASS="style1">
+                    In conjunction with the sales and marketing departments, define projects for development and research
+                </li>
+                <li CLASS="style1">
+                    Work with sales marketing personnel to define and establish technical requirements of new products/ features.
+                </li>
+            </ul>
+
+            </p>
+        </td>
+
+    <tr>
+        <td colspan="2" style="width: 800px;">
+            <hr></td>
+    </tr>
+
+    <tr>
+        <td style="width: 200px ;">
+            <img src="img_education.JPG" style="margin-left: 10%;">
+        </td>
+    </tr>
+
+    <tr>
+    <td colspan="2" style="width: 800px;" >
+        <p style="margin-left: 5%; font-size: 13pt;">
+            <b style="font-size: 14pt;">Institute of Business & Technology</b><br>
+            MBA Executive, 3.3 CGPA<br>
+            <a style="color: #808080;">2006 - 2008</a></p>
+        <p>
+    </tr>
+
+
+    <tr>
+        <td colspan="2" style="width: 800px;" >
+            <p style="margin-left: 5%; font-size: 13pt;">
+                <b style="font-size: 14pt;">Karachi University</b><br>
+                MSC (Electronics), First Division<br>
+                <a style="color: #808080;">2000 - 2004</a></p>
+            <p>
+    </tr>
+</table>
+
+
+
+</body>
+</html>
